@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="business_name">Hubris Comics</string>
+    <string name="business_description">Your No.1 source of the latest comics and toys in Abuja.</string>
+    <string name="business_address">No.5, Off KAltungo Street, Aminu Kano Road, Abuja.</string>
+    <string name="business_phone">09046854067</string>
+    <string name="business_website">www.hubirscomics.ng</string>
+</resources>
