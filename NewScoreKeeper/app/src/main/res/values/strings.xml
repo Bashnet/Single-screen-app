@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewScoreKeeper</string>
+    <string name="pointsTeamA">points</string>
+    <string name="foulsTeamA">fouls</string>
+    <string name="pointsTeamB">points</string>
+    <string name="foulsTeamB">fouls</string>
+    <string name="reset">reset</string>
+    <string name="teamA">Google FC</string>
+    <string name="teamB">Yahoo FC</string>
+</resources>
